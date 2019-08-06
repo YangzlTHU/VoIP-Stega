@@ -22,6 +22,8 @@ StegCoder.exe -i input -o output -a pitch -r 100
 【1】Xiao B, Huang Y, Tang S. An approach to information hiding in low bit-rate speech stream[C]//IEEE GLOBECOM 2008-2008 IEEE Global Telecommunications Conference. IEEE, 2008: 1-5.
 【2】Huang Y, Liu C, Tang S, et al. Steganography integration into a low-bit rate speech codec[J]. IEEE transactions on information forensics and security, 2012, 7(6): 1865-1875.
 
+===========================================================================================
+
 另外，针对上述VoIP隐写算法的分析算法，可以参考如下相关研究工作：
 
 【3】Huang Y F, Tang S, Zhang Y. Detection of covert voice-over Internet protocol communications using sliding window-based steganalysis[J]. IET communications, 2011, 5(7): 929-936.
